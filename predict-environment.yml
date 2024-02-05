@@ -1,0 +1,14 @@
+name: ed-testenv
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - pip
+  - click
+  - fastapi
+  - gunicorn
+  - lightgbm
+  - pandas
+  - scikit-learn
+  - setuptools_scm
+  - uvicorn
